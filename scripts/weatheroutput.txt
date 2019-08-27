@@ -1,0 +1,1 @@
+{'London': 29.355, 'Mumbai': 28.63, 'Charlotte': 27.41, 'New York': 22.945}
